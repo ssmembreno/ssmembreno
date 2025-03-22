@@ -15,4 +15,3 @@ Si quieres colaborar en algún proyecto o necesitas ayuda, puedes encontrarme en
 - 🔗 **LinkedIn:** [Samuel Membreño](https://www.linkedin.com/in/samuel-membre%C3%B1o-3845b52bb/)
 - 💼 **InfoJobs:** [Perfil InfoJobs](https://www.infojobs.net/candidate/cv/view/index.xhtml?dgv=12543435670115930077)
 
-¡Gracias por visitar mi perfil! 🚀
