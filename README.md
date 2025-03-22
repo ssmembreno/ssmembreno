@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy [Tu Nombre]
 
-<!--
-**ssmembreno/ssmembreno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mí
+Soy un estudiante de Desarrollo de Aplicaciones Web (DAW) con experiencia en tecnologías como:
+- **Backend:** Java (JSP, Servlets, JSTL)
+- **Frontend:** HTML, CSS, JavaScript, Bootstrap, Tailwind
+- **Bases de datos:** MySQL, phpMyAdmin
+- **Herramientas:** NetBeans, Apache, WordPress (Elementor, Divi, PrestaShop)
+- **SEO y desarrollo web:** Optimización de sitios y estrategias de tráfico
 
-Here are some ideas to get you started:
+## 📫 Contáctame
+Si quieres colaborar en algún proyecto o necesitas ayuda, puedes encontrarme en:
+- **Email:** [Tu Correo]
+- **LinkedIn:** [Tu Perfil]
+- **Twitter:** [Tu Usuario]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+¡Gracias por visitar mi perfil! 🚀
