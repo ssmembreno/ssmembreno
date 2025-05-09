@@ -15,8 +15,6 @@ Soy un estudiante de Desarrollo de Aplicaciones Web (DAW) con experiencia en tec
 - **Herramientas:**  
   ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white) ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
-- **SEO y desarrollo web:**  
-  Optimización de sitios y estrategias de tráfico.
 
 
 ## 📫 Contáctame
