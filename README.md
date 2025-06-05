@@ -21,5 +21,5 @@ Soy un estudiante de Desarrollo de Aplicaciones Web (DAW) con experiencia en tec
 Si quieres colaborar en algún proyecto o necesitas ayuda, puedes encontrarme en:
 - 📧 **Email:** [samuel.mem123@gmail.com](mailto:samuel.mem123@gmail.com)
 - 🔗 **LinkedIn:** [Samuel Membreño](https://www.linkedin.com/in/samuel-membre%C3%B1o-3845b52bb/)
-- 💼 **InfoJobs:** [Perfil InfoJobs](https://www.infojobs.net/candidate/cv/view/index.xhtml?dgv=12543435670115930077)
+- 💼 **InfoJobs:** [Samuel Membreño](https://www.infojobs.net/candidate/cv/view/index.xhtml?dgv=12543435670115930077)
 
